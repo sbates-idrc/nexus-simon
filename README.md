@@ -21,12 +21,13 @@ configuration is provided for running Nexus.
 For more information on the use of Vagrant, please see:
 https://github.com/GPII/qi-development-environments
 
-Running the tests in the VM
----------------------------
+Running the tests in a VM
+-------------------------
 
-```
-$ grunt tests
-```
+To run the Nexus tests in a VM:
+
+- Ensure that the VM is running (`vagrant up`); then
+- `grunt tests`
 
 Trying it out
 -------------
