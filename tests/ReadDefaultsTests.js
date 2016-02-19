@@ -20,7 +20,7 @@ gpii.tests.nexus.readDefaults.testDefs = [
     {
         name: "Read Defaults for existing grade",
         gradeNames: "gpii.test.nexus.testCaseHolder",
-        expect: 4,
+        expect: 5,
         config: {
             configName: "gpii.tests.nexus.config",
             configPath: configPath
